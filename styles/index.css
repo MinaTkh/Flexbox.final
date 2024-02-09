@@ -17,3 +17,12 @@
     align-content: space-evenly;
     flex-wrap: wrap;
 }
+
+.container {
+    border: none;
+    background-color: #F49506;
+    width: 468px;
+    height: 160px;
+    display: flex;
+    border-radius: 8px;
+}
