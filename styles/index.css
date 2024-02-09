@@ -1,0 +1,19 @@
+.flex_example {
+    height: 100vh;
+    background-color: #370617;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+.flex_container {
+    border: none;
+    background-color: #370617;
+    display: flex;
+    max-width: 996px;
+    min-height: 560px;
+    justify-content: space-evenly;
+    align-content: space-evenly;
+    flex-wrap: wrap;
+}
